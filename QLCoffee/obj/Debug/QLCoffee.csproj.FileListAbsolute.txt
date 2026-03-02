@@ -1,0 +1,14 @@
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\bin\Debug\QLCoffee.exe.config
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\bin\Debug\QLCoffee.exe
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\bin\Debug\QLCoffee.pdb
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.csproj.AssemblyReference.cache
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.FormLogin.resources
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.Properties.Resources.resources
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.csproj.GenerateResource.cache
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.csproj.CoreCompileInputs.cache
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.exe
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.pdb
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.exe.config
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.FormMain.resources
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.FormBan.resources
+C:\Users\trach\Downloads\QLCoffee\QLCoffee\QLCoffee\obj\Debug\QLCoffee.FormMon.resources

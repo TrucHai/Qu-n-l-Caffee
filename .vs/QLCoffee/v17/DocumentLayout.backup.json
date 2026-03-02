@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\qlcoffee\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\BUS\\AccountBUS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:QLCoffee\\BUS\\AccountBUS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\DAL\\AccountDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:QLCoffee\\DAL\\AccountDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|c:\\users\\trach\\downloads\\qlcoffee\\qlcoffee\\qlcoffee\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|c:\\users\\trach\\downloads\\qlcoffee\\qlcoffee\\qlcoffee\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\qlcoffee\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\qlcoffee\\formban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\formban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\qlcoffee\\formmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\formmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\qlcoffee\\formmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\formmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\qlcoffee\\formban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4E91B0-22AC-4BF2-B1AD-544B9AD378D6}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\formban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormLogin.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormLogin.cs",
+              "RelativeToolTip": "QLCoffee\\FormLogin.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:11:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormBan.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\FormBan.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormBan.cs [Design]",
+              "RelativeToolTip": "QLCoffee\\FormBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T15:53:50.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMon.cs",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormMon.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\FormMon.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormMon.cs",
+              "RelativeToolTip": "QLCoffee\\FormMon.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAawDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:12:58.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormMain.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\FormMain.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormMain.cs*",
+              "RelativeToolTip": "QLCoffee\\FormMain.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:41:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormMon.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\FormMon.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormMon.cs [Design]",
+              "RelativeToolTip": "QLCoffee\\FormMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T15:53:34.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormMain.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\FormMain.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormMain.cs [Design]*",
+              "RelativeToolTip": "QLCoffee\\FormMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:51:40.822Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountBUS.cs",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\BUS\\AccountBUS.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\BUS\\AccountBUS.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\BUS\\AccountBUS.cs",
+              "RelativeToolTip": "QLCoffee\\BUS\\AccountBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:49:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\DAL\\AccountDAL.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\DAL\\AccountDAL.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\DAL\\AccountDAL.cs",
+              "RelativeToolTip": "QLCoffee\\DAL\\AccountDAL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAwAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:48:59.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormBan.cs",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormBan.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\FormBan.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormBan.cs",
+              "RelativeToolTip": "QLCoffee\\FormBan.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:03:02.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormLogin.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\trach\\Downloads\\QLCoffee\\QLCoffee\\QLCoffee\\FormLogin.cs [Design]",
+              "RelativeToolTip": "QLCoffee\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:45:30.949Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
